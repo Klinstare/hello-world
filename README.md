@@ -1,2 +1,2 @@
 # hello-world
-print('Hello word')
+Just another respository
