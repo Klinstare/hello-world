@@ -1,2 +1,2 @@
 # hello-world
-Just another respository
+print('Hello word')
